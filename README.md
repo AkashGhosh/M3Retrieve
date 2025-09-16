@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="./images/HERO_IMAGE.png" />
+  <img src="images/Frame 6 (2).png" alt="Overview" width="500" />
 </p>
 
 ---
