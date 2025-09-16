@@ -43,7 +43,7 @@ M3Retrieve defines a set of clinically grounded retrieval tasks that reflect rea
 ---
 
 <p align="center">
-  <img src="./images/Frame 6(2).png" />
+  <img src="images/Frame 6 (2).png" />
 </p>
 
 ---
