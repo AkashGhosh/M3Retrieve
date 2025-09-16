@@ -30,6 +30,22 @@
 - 🌐 **Advancing Medical AI** – Provides a standardized platform to drive innovation in multimodal retrieval systems for healthcare, fostering more reliable and clinically applicable AI models.  
 
 
+## Overview of Retrieval Tasks
 
+M3Retrieve defines a set of clinically grounded retrieval tasks that reflect real-world medical information-seeking workflows:
+
+- 🖼️ **Visual Context Retrieval** – Given an image and short text (e.g., caption), retrieve the most relevant passage from a large medical corpus.  
+- 📑 **Multimodal Summary Retrieval** – From a multimodal query (text + image), retrieve the most appropriate expert-written summary that integrates both modalities.  
+- 🧾 **Case Study Retrieval** – Match a multimodal clinical query (patient transcript + image) with the most relevant full case study from medical literature.  
+- 🩻 **Multimodal Query-to-Image Retrieval** – Retrieve the most relevant medical image (e.g., X-ray, MRI, pathology slide) based on a multimodal query (text + image).  
+- ✅ **Quality-Controlled Curation** – All tasks were curated with medical expert guidance and validated through domain-expert reviews to ensure clinical accuracy and relevance.  
+
+---
+
+<p align="center">
+  <img src="./images/Frame 6(2).png" />
+</p>
+
+---
 
 
