@@ -68,7 +68,22 @@ The results below report **NDCG@10 scores** across four retrieval tasks: Visual 
 - Multimodal models such as **MM Embed** excel in tasks that require integrating both text and images.  
 - Uni-modal dense retrievers like **NV Embed** remain highly effective for text-heavy tasks such as summary and case study retrieval.  
 - **CLIP-style** and medical-specific models (e.g., **MII**) perform best on image-centric tasks like query-to-image retrieval.  
-- Lexicon-based methods (e.g., **BM-25**) still provide competitive baselines in certain settings.  
+- Lexicon-based methods (e.g., **BM-25**) still provide competitive baselines in certain settings.
+
+## Qualitative Analysis
+
+To better illustrate the behavior of retrieval models, we conduct a qualitative analysis on sample queries from **M3Retrieve** (Figure 3).  
+
+- For **Visual Context Retrieval**, we observe that relevant paragraphs are often identified not only by explicit figure references but also by contextual alignment within the same article. This highlights the importance of combining both image and textual signals in determining relevance.  
+- In the case of **multimodal queries**, the models successfully associate medical images (e.g., heart X-ray, anatomical diagrams) with their corresponding textual descriptions, showcasing the ability of multimodal retrievers to capture fine-grained semantic alignment.  
+- However, we also note instances where retrieval models struggle with nuanced medical terminology or subtle image-text distinctions, emphasizing the need for further domain-specific adaptation.  
+
+<p align="center">
+  <img src="images/examples.png" alt="Qualitative Analysis Examples" width="80%" />
+</p>
+
+*Figure 3: Examples from M3Retrieve demonstrating how queries (images) are mapped to relevant corpus passages using medical expert-defined relevancy mappings.*
+
 
 
 
