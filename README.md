@@ -43,4 +43,32 @@ M3Retrieve defines a set of clinically grounded retrieval tasks that reflect rea
 
 ---
 
+## Evaluation Results
+
+We evaluated a wide range of **uni-modal** and **multimodal retrieval models** on the M3Retrieve benchmark.  
+The results below report **NDCG@10 scores** across four retrieval tasks: Visual Context Retrieval, Summary Retrieval, Query-to-Image Retrieval, and Case Study Retrieval.  
+
+- **Best-performing models** are highlighted in **bold**.  
+- **Second-best models** are _underlined_.  
+
+| Method      | Visual Context Retrieval | Summary Retrieval | Query-to-Image Retrieval | Case Study Retrieval |
+|-------------|--------------------------|-------------------|---------------------------|----------------------|
+| **BM-25**   | 38.07                    | 18.16             | N/A                       | **11.50**            |
+| E5 Large    | 35.14                    | 70.23             | N/A                       | 7.68                 |
+| BGE         | 32.32                    | 83.66             | N/A                       | 6.59                 |
+| _NV Embed_  | _43.28_                  | **89.73**         | N/A                       | _10.99_              |
+| MM Ret      | 24.56                    | 43.71             | 2.27                      | 1.09                 |
+| MII         | 28.13                    | 22.50             | **43.53**                 | 1.64                 |
+| CLIP SF     | 26.44                    | 26.30             | 29.06                     | 1.27                 |
+| BLIP FF     | 24.72                    | 20.89             | 2.23                      | 0.92                 |
+| **MM Embed**| **45.47**                | _76.27_           | _29.49_                   | 9.91                 |
+| FLMR        | 24.80                    | 21.30             | 2.56                      | 1.48                 |
+
+**Key Insights:**
+- Multimodal models such as **MM Embed** excel in tasks that require integrating both text and images.  
+- Uni-modal dense retrievers like **NV Embed** remain highly effective for text-heavy tasks such as summary and case study retrieval.  
+- **CLIP-style** and medical-specific models (e.g., **MII**) perform best on image-centric tasks like query-to-image retrieval.  
+- Lexicon-based methods (e.g., **BM-25**) still provide competitive baselines in certain settings.  
+
+
 
