@@ -12,13 +12,7 @@
 #### [Arakdeep Acharya](https://arkadeepacharya.github.io/), [Akash Ghosh](https://scholar.google.co.in/citations?user=NWc6Pw8AAAAJ&hl=en&oi=ao), [Pradeepika Verma](https://scholar.google.com/citations?user=i62Wy3oAAAAJ&hl=en), [Kitsuchart Pasupa](https://scholar.google.com/citations?user=UtzYq_0AAAAJ&hl=en) , [Sriparna Saha](https://scholar.google.com/citations?user=Fj7jA_AAAAAJ&hl=en),[Priti Singh]() 
 
 
----
 
-<p align="center">
-  <img src="HERO_IMAGE.png" alt="Overview" width="500" />
-</p>
-
----
 
 ## About the Paper
 
