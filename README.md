@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="images/Frame 6 (2).png" alt="Overview" width="500" />
+  <img src="HERO_IMAGE.png" alt="Overview" width="500" />
 </p>
 
 ---
@@ -43,7 +43,7 @@ M3Retrieve defines a set of clinically grounded retrieval tasks that reflect rea
 ---
 
 <p align="center">
-  <img src="images/Frame 6 (2).png" />
+  <img src="images/Frame 6 (2).png" alt="Overview" width="500" />
 </p>
 
 ---
