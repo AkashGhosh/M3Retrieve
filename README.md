@@ -12,7 +12,10 @@
 #### [Arakdeep Acharya](https://arkadeepacharya.github.io/), [Akash Ghosh](https://scholar.google.co.in/citations?user=NWc6Pw8AAAAJ&hl=en&oi=ao), [Pradeepika Verma](https://scholar.google.com/citations?user=i62Wy3oAAAAJ&hl=en), [Kitsuchart Pasupa](https://scholar.google.com/citations?user=UtzYq_0AAAAJ&hl=en) , [Sriparna Saha](https://scholar.google.com/citations?user=Fj7jA_AAAAAJ&hl=en),[Priti Singh]() 
 
 
+#### [M3Retrieve Dataset Now on HuggingFace !!!!](https://huggingface.co/collections/ArkaAcharya/m3retrieve-benchmarking-multimodal-retrieval-for-medicine-68f67e43f0bf271334690d07)
 
+Please bear with us as we try to update the documentation and code to make the codes in the paper reproducible. 
+Thank you for your patience and coorporation ! :)
 
 ## About the Paper
 
