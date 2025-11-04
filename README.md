@@ -17,7 +17,7 @@
 Please bear with us as we try to update the documentation and code to make the codes in the paper reproducible. 
 Thank you for your patience and cooperation! :)
 
-4/11/2025: The codes are updated in the codes folder .
+4/11/2025: The codes are updated in the Code folder.
 
 ## About the Paper
 
