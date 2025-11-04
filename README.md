@@ -87,6 +87,20 @@ To better illustrate the behavior of retrieval models, we conduct a qualitative 
   <img src="images/examples.png" alt="Qualitative Analysis Examples" width="80%" />
 </p>
 
+## Citation
+
+If you find our work useful or use it in your research, please consider citing:
+
+```bibtex
+@article{acharya2025m3retrieve,
+  title={M3Retrieve: Benchmarking Multimodal Retrieval for Medicine},
+  author={Acharya, Arkadeep and Ghosh, Akash and Verma, Pradeepika and Pasupa, Kitsuchart and Saha, Sriparna and Singh, Priti},
+  journal={arXiv preprint arXiv:2510.06888},
+  year={2025}
+}
+```
+
+
 *Figure 3: Examples from M3Retrieve demonstrating how queries (images) are mapped to relevant corpus passages using medical expert-defined relevancy mappings.*
 
 
