@@ -15,7 +15,9 @@
 #### [M3Retrieve Dataset Now on HuggingFace !!!!](https://huggingface.co/collections/ArkaAcharya/m3retrieve-benchmarking-multimodal-retrieval-for-medicine-68f67e43f0bf271334690d07)
 
 Please bear with us as we try to update the documentation and code to make the codes in the paper reproducible. 
-Thank you for your patience and coorporation ! :)
+Thank you for your patience and cooperation! :)
+
+4/11/2025: The codes are updated in the codes folder .
 
 ## About the Paper
 
